@@ -1,6 +1,6 @@
 ### Hi there 👋
-Hi, I'm a person gender equality advocates who like code and still develop self to be a good coder. I know php, c++, and a little bit javascript ( still learn ).
-- 🌱 I’m currently learning website development
+Hi, I'm a person gender equality advocates who like code and still develop self to be a good coder.
+- 🌱 I’m currently learning javascript, php, and c++.
 
 <!--
 **WillyFerry/WillyFerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
