@@ -5,5 +5,3 @@ Hi, I'm a person gender equality advocates who like code and still develop self 
 [![trophy](https://github-profile-trophy.vercel.app/?username=WillyFerry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=WillyFerry&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![willyferry](https://count.getloli.com/get/@willyferry)
